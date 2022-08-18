@@ -461,6 +461,13 @@ w3c-6.19:
   Category: runners
   Sub-category: wine
   Channel: stable
+
+# Wine Wayland
+# -----------------------
+wine-wayland-6.19-1:
+  Category: runners
+  Sub-category: wine
+  Channel: unstable
   
 # VKD3D
 # -----------------------
